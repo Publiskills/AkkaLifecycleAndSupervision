@@ -1,0 +1,3 @@
+﻿akka {
+	suppress-json-serializer-warning = on
+}
