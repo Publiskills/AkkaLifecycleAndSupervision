@@ -1,3 +1,4 @@
 ﻿akka {
-	suppress-json-serializer-warning = on
+	suppress-json-serializer-warning = on	
+    loglevel = off
 }
